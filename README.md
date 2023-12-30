@@ -1,2 +1,2 @@
 # DAFAdminPanel
- A version of an admin panel somewhat functional. Still some features missing. Like cross messaging
+ A version of an admin panel written fully following OOP. Still some features missing. Like cross messaging
